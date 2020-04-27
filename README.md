@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+LearningViewTool::Renderer.copyright 'Rails community', 'All rights reserved'
+```
 
 ## Development
 
